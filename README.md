@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjangid&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjangid" /> </p>
 
-- 🌱 I’m currently learning **CP**
+- 🌱 Competitive programmer
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanjangid?tab=repositories](https://github.com/aryanjangid?tab=repositories)
 
-- 💬 Ask me about **CP, react ,javascript**
+- 💬 Ask me about **CP, react ,javascript, DSA**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing](https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing)
 
