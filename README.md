@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **CP, react ,javascript, DSA**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing](https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing](https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
