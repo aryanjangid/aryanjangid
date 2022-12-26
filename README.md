@@ -1,14 +1,26 @@
-﻿<img src='./images/Hello(1).gif' />
-<h1 align="center">Aryan Jangid 👋</h1>
-<h3 align="center">Software Developer</h3>
+<!-- [![GitHub Follow](https://img.shields.io/github/followers/aryanjangid?style=social&logo=github)](https://github.com/aryanjangid) -->
+
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[ARYAN JANGID](https://github.com/aryanjangid) <img src="./img/wave.gif" width="30px" height="30px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjangid&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjangid" /> </p>
 
-- 🌱 Competitive programmer
+<p align="center">
+  <a href="https://github.com/aryanjangid/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;AI+and+Data+Science+Student;DSA+Mentor;Competitive+Programmer"></a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aryanjangid?tab=repositories](https://github.com/aryanjangid?tab=repositories)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
+👨‍🎓I am Aryan, currently working as a **Software Engineer Intern** at **Monozor**.<br />
+💻Proficient in a wide range of programming languages and technologies, including **C++, Python, JavaScript, React** and various frameworks and libraries.<br />
+🧠Strong understanding of 📱**UX design** principles and an enthusiasm for creating intuitive and **visually appealing interfaces**.<br />
+🏆Extensive experience with **DSA, including mentorship of other developers** in this area.<br />
+🥇Successful track record in **competitive programming**, with over 😎**1000 DSA questions solved**. (3⭐️@codechef)<br />
+🤩**Founder and admiral** of the <a href="https://github.com/CPMC-DYPCOE">Competitive Programming club</a>, a community of like-minded developers focused on sharing knowledge and improving ✏️skills.<br />
+🙌Demonstrated ability to **work effectively in 🫂team environments**, with strong problem-solving and communication skills.<br />
 
-- 💬 Ask me about **CP, react ,javascript, DSA**
+[![Badge](https://cp-logo.vercel.app/codechef/kothariji)](https://www.codechef.com/users/ser_reckon)
+[![Badge](https://cp-logo.vercel.app/codeforces/kothariji)](https://codeforces.com/profile/Reckon07)
+[![Badge](https://cp-logo.vercel.app/leetcode/kothariji)](https://leetcode.com/Reckon007)
+
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing](https://drive.google.com/file/d/15jj-EqxOQnPUg6T_vxyRFjc3UbO37Qpc/view?usp=sharing) -->
 
