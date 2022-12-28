@@ -9,13 +9,13 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
-👨‍🎓I am Aryan, currently working as a **Software Engineer Intern** at **Monozor**.<br />
-💻Proficient in a wide range of programming languages and technologies, including **C++, Python, JavaScript, React** and various frameworks and libraries.<br />
-🧠Strong understanding of 📱**UX design** principles and an enthusiasm for creating intuitive and **visually appealing interfaces**.<br />
-🏆Extensive experience with **DSA, including mentorship of other developers** in this area.<br />
-🥇Successful track record in **competitive programming**, with over 😎**1000 DSA questions solved**. (3⭐️@codechef)<br />
-🤩**Founder and admiral** of the <a href="https://github.com/CPMC-DYPCOE">Competitive Programming club</a>, a community of like-minded developers focused on sharing knowledge and improving ✏️skills.<br />
-🙌Demonstrated ability to **work effectively in 🫂team environments**, with strong problem-solving and communication skills.<br />
+• 👨‍🎓I am Aryan, currently working as a **Software Engineer Intern** at **Monozor**.<br />
+• 💻Proficient in a wide range of programming languages and technologies, including **C++, Python, JavaScript, React** and various frameworks and libraries.<br />
+• 🧠Strong understanding of 📱**UX design** principles and an enthusiasm for creating intuitive and **visually appealing interfaces**.<br />
+• 🏆Extensive experience with **DSA, including mentorship of other developers** in this area.<br />
+• 🥇Successful track record in **competitive programming**, with over 😎**1000 DSA questions solved**. (3⭐️@codechef)<br />
+• 🤩**Founder and admiral** of the <a href="https://github.com/CPMC-DYPCOE">Competitive Programming club</a>, a community of like-minded developers focused on sharing knowledge and improving ✏️skills.<br />
+• 🙌Demonstrated ability to **work effectively in 🫂team environments**, with strong problem-solving and communication skills.<br />
 
 <br/>
 <table>
