@@ -9,13 +9,15 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
-• 👨‍🎓I am Aryan, currently working as a **Software Engineer Intern** at **Tickrbit**.<br />
-• 💻Proficient in a wide range of programming languages and technologies, including **C++, Python, JavaScript, React** and various frameworks and libraries.<br />
-• 🧠Strong understanding of 📱**UX design** principles and an enthusiasm for creating intuitive and **visually appealing interfaces**.<br />
-• 🏆Extensive experience with **DSA, including mentorship of other developers** in this area.<br />
-• 🥇Successful track record in **competitive programming**, with over 😎**1000 DSA questions solved**. (3⭐️@codechef)<br />
-• 🤩**Founder and admiral** of the <a href="https://github.com/CPMC-DYPCOE">Competitive Programming club</a>, a community of like-minded developers focused on sharing knowledge and improving ✏️skills.<br />
-• 🙌Demonstrated ability to **work effectively in 🫂team environments**, with strong problem-solving and communication skills.<br />
+👨‍🎓I'm Aryan Jangid, a friendly neighborhood coffee-fueled Software Engineer. I'm so motivated and organized that even my coffee mugs stand in awe of my discipline! My thirst for knowledge is so intense that I practically chug espressos like a pro!<br />
+
+**Competitive programming**💻 is my playground, and let me tell you, debugging code before having my morning coffee can be a real comedy show. But fear not, once the coffee kicks in, my software development skills become so sharp that bugs run away in terror!<br />
+
+As a Full stack developer, I craft intricate and innovative software applications that would make even a barista jealous of my creative thinking. My problem-solving abilities are so on point that I can fix code faster than I can brew a fresh cup of joe!<br />
+
+So, buckle up and let's explore my projects together while I sip my coffee, which is practically my secret sauce for tech excellence. Trust me, with me and my caffeine-fueled skills, the world of technology is in for a wild and hilarious ride! 
+
+☕️ **Cheers to coding and coffee!** ☕️.
 
 <br/>
 <table>
